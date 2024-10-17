@@ -1,70 +1,54 @@
 {
   "basics": {
     "name": "Walter Federico Neira",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "label": "Desarrollador Java Backend",
+    "image": "/me.jpg",
+    "email": "walterneira1986@gmail.com",
+    "phone": "+54 1169486865",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "¡Hola! Soy Walter, un apasionado estudiante de programación de la Universidad Tecnológica Nacional con habilidades en Java, Spring Boot, Programación Orientada a Objetos (POO), Hibernate y SQL, entre otras tecnologías. He dedicado tiempo a la formación autodidacta, completando cursos en tecnologías como Java,POO, APIs con Spring Boot y Bases de Datos. Además, en julio de 2023, culminé con éxito el curso de 'Desarrollador Full Stack Python' de Codo a Codo 4.0. Actualmente, me encuentro en la búsqueda de mi primer empleo en el mundo IT, ansioso por aplicar y ampliar mis habilidades en entornos profesionales. Siempre estoy motivado para seguir aprendiendo y adoptando nuevas tecnologías.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "1870",
+      "city": "Avellaneda, Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "Walter Neira",
+        "url": "https://linkedin.com/in/walterneira"
       },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
+      
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "WNeira05",
+        "url": "https://github.com/WNeira05"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "CIRUGIA NEDISUR SRL",
+      "position": "Administrativo",
+      "startDate": "2016-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "·Armado y envío de presupuestos diarios para enviar a Provincia ART y otras aseguradoras ·Gestionar telefónicamente entrega de los materiales a los pacientes en tiempo y forma ·Realización de tareas administrativas y de facturación ·Seguimiento y control de las cuentas corrientes bancarias ·Atención y cobro al público en mostrador ·Trámites bancarios",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "ESTUDIO JURIDICO DEFILIPPI, GONZALEZ y ASOCIADOS ",
+      "position": "Administrativo / Auditor",
+      "startDate": "2011-02-01",
+      "endDate": "2015-08-01",
+      "summary": "·Realización de tareas administrativas y de oficina ·Tramitación de informes en el Ministerio de producción de la Nación para importación de mercadería ·Auditoría de productos importados",
       "highlights": [
         "Started the company"
       ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
-    }
+    }  
   ],
   "volunteer": [{
     "organization": "Organization",
@@ -78,17 +62,28 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad Tecnologica Nacional",
+    "area": "Tecnico Universitario en Programación",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2025-01-01",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+{
+    "institution": "Codo a Codo 4.0 (Buenos Aires Ciudad)",
+    "area": "Desarrollador Full Stack Python",
+    "studyType": "Bachelor",
+    "startDate": "2023-02-01",
+    "endDate": "2024-07-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
     ]
   }],
+  
   "awards": [{
     "title": "Award",
     "date": "2014-11-01",
@@ -109,6 +104,28 @@
     "summary": "Description…"
   }],
   "skills": [
+  
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "SpringBoot",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
     {
       "name": "HTML",
       "level": "Master",
@@ -116,6 +133,7 @@
         "Desarrollo Web", "Frontend"
       ]
     },
+    
     {
       "name": "CSS",
       "level": "Master",
@@ -130,27 +148,7 @@
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
+   
     {
       "name": "MySQL",
       "level": "Avanzado",
@@ -171,21 +169,8 @@
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
     }
+    
   ],
   "languages": [
     {
@@ -210,66 +195,45 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "API Rest | Springboot",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "API-Rest-Bazar-Springboot es una API RESTful desarrollada con Spring Boot para gestionar un sistema de bazar. Esta API permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre diversos recursos del sistema, como productos, clientes y órdenes de compra.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        
       ],
-      "url": "https://mars.codes"
+      "url": "https://github.com/WNeira05/API-Rest-Bazar-Springboot",
+      "github": "https://github.com/WNeira05/API-Rest-Bazar-Springboot"
     },
     {
-      "name": "AdventJS",
+      "name": "LOGIN (Java + Swing + JPA)",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Este proyecto presenta un sistema de inicio de sesión simple desarrollado en Java utilizando la interfaz gráfica de usuario Swing y una base de datos. Su propósito principal fue proporcionar una práctica experiencia de trabajo con persistencia a través de Java Persistence API (JPA). Es importante tener en cuenta que las contraseñas almacenadas en la base de datos no están cifradas en esta implementación.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://github.com/WNeira05/Login",
+      "github": "https://github.com/WNeira05/Login"
     },
     {
-      "name": "Codember",
+      "name": "JUEGO (Java + Swing)",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Este programa en Java implementa un juego interactivo con una interfaz gráfica (Swing) que desafía al usuario a adivinar la cantidad de veces que aparece un emoji específico en una matriz 4x4 rellenada aleatoriamente con emojis navideños.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        
       ],
-      "url": "https://codember.dev"
+      "url": "https://github.com/WNeira05/Adivinanza_Emojis_Navidad-",
+      "github": "https://github.com/WNeira05/Adivinanza_Emojis_Navidad-"
     },
     {
-      "name": "codi.link",
+      "name": "Sitio Web Responsive | Heladería 'Dulce Tentación'",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "description": "Proyecto creación de pagina Web para curso de Desarrollador Full Stack Python",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://wneira05.github.io/TPO-v1/",
+      "github": "https://github.com/WNeira05/TPO-v1"
     }
+    
   ]
 }
